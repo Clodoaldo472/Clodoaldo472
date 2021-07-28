@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div align="center">
+  <img height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Clodoaldo472&show_icons=true&count_private=true&theme=tokyonight"/>&nbsp;
+  <img height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clodoaldo472&layout=compact&theme=tokyonight"
+<div>
+<br><br>
+
 <!--
 **Clodoaldo472/Clodoaldo472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
