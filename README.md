@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <img height="165"
+  <img height="160"
       src="https://github-readme-stats.vercel.app/api?username=Clodoaldo472&show_icons=true&count_private=true&theme=tokyonight"/>&nbsp;
-  <img height="165"
+  <img height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clodoaldo472&layout=compact&theme=tokyonight"
 <div>
 <br><br>
