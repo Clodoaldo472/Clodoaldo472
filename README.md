@@ -55,5 +55,3 @@ pesquisa e aplicação em Computação Forense e Segurança de Sistemas.
 
 ## ✉️ Contato & Redes
 *   **LinkedIn:** [linkedin.com/in/clodoaldobraga](https://www.linkedin.com/in/clodoaldobraga/)
-
-🚀 Deseja avançar para a estruturação do README técnico do repositório do seu projeto (PyForensics) para fechar com chave de ouro essa etapa?
